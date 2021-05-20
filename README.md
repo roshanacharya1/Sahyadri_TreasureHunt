@@ -2,7 +2,7 @@
 # ScreenShots
 | | |
 |---|---|
-| ![](ScreenShots/ss2.jpg)|![](ScreenShots/ss3.jpg)|
+| ![](ScreenShots/ss2.jpeg)|![](ScreenShots/ss3.jpeg)|
 |||
-| ![](ScreenShots/ss1.jpg)|![](ScreenShots/ss4.jpg)|
+| ![](ScreenShots/ss1.jpeg)|![](ScreenShots/ss4.jpeg)|
 
