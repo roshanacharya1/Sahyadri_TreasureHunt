@@ -298,7 +298,7 @@ class MainActivity : AppCompatActivity() {
     }
     companion object {
         internal const val ACTION_GEOFENCE_EVENT =
-            "HuntMainActivity.treasureHunt.action.ACTION_GEOFENCE_EVENT"
+            "MainActivity.treasureHunt.action.ACTION_GEOFENCE_EVENT"
     }
 }
 
